@@ -27,4 +27,6 @@ These goals will serve as a way to:
 - 💹 Invest +50% of salary in stock market
 - 👨🏼‍💻 Learn NextJS
 - 🤓 Learn JAM Stack
+- 💻 Learn Server-Side Rendering
+- 🗣️ Give at least 3 talks
 - 🤲 Do a 3 day retirement to a buddhism temple
