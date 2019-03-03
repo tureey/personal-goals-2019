@@ -1,0 +1,14 @@
+# Goals for 2019
+- 📅 Follow a weekly routine
+- 🍅 Keep using pomodoro technique
+- 🎨 Start a blog and do +30 posts
+- 🧘 Practice 2-3 times yoga per week
+- 🙏 Meditate every day +10min
+- 🏋️ Go 2-3  times to the gym per week
+- 🎨 Redesign my personal website
+- 👨🏼‍💻 Include a blog in my personal website
+- 📚 Read +12 books (productivity, mindfulness, spirituality, personal branding, marketing, tech...)
+- 🛫 Travel to +5 countries
+- 👨🏼‍💻 Learn NextJS
+- 🤓 Learn JAM Stack
+- 🤲 Do a 3 day retirement to a buddhism temple
