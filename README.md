@@ -1,4 +1,19 @@
-# Goals for 2019
+# What I want to achieve with these goals in 2019
+These goals will serve as a way to:
+- Be happier
+- Feel less stress and anxiety
+- Have a peaceful mind
+- Keep my mind excited
+- Keep my body fit
+- Keep my soul pure
+- Bring balance to my life
+- Be more productive
+- Become disciplined
+- Invest in the short, mid and long term at work and in life
+
+## Goals
+- 🥃 Stop drinking alcohol
+- 🚬 Stop smoking sporadically
 - 📅 Create and follow a weekly routine
 - 🍅 Keep using pomodoro technique
 - 🎨 Start a blog and do +30 posts
