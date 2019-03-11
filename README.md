@@ -14,9 +14,9 @@ These goals will serve as a way to:
 ## Goals
 - 🥃 Stop drinking alcohol
 - 🚬 Stop smoking sporadically
-- 📅 Create and follow a weekly routine
-- 🍅 Keep using pomodoro technique
-- 📝 Start a blog
+- 📅 ~Create and follow a weekly routine~
+- 🍅 ~Keep using pomodoro technique~
+- 📝 ~Start a blog~
 - ✍️ Write +30 posts
 - 🙏 Meditation every day +10min
 - 🧘 Yoga 2-3 times per week
